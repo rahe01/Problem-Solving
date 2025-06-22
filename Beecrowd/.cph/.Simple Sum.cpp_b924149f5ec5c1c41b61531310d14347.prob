@@ -1,0 +1,1 @@
+{"name":"Local: Simple Sum","url":"/home/rahe03/Code-C++/Beecrowd/Simple Sum.cpp","tests":[{"id":1750462974353,"input":"30\n10","output":"SOMA = 40"},{"id":1750463002847,"input":"-30\n10","output":"SOMA = -20"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rahe03/Code-C++/Beecrowd/Simple Sum.cpp","group":"local","local":true}
